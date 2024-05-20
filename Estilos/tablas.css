@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Personal{
+    margin-left: 65px;
+    padding-top: 10px;
+    position: relative;
+    right: 50px;
+}
+
+.imagen{
+    padding-top: 10px;
+}
+.imagen img{
+    height: 350px;
+    margin-left: 50px; 
+    border-radius: 50px;  
+}
+.Personal ul li{
+    padding-top: 10px;
+}
+h2 {
+    margin-left: 50px;
+    padding-top: 10px;
+}
+
+p{
+    margin-left: 50px;
+    padding-top: 10px;
+}
+.valor ul li{
+    margin-left: 65px;
+    padding-top: 10px;
+}
+
+.redes ul li{
+    margin-left: 65px;
+    padding-top: 10px;
+}
+.program{
+    padding-top: 10px;
+}
+.program ul li {
+    margin-left: 65px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.Unidades{
+    border: 5px solid goldenrod;
+    margin-left: 10px;
+    padding-bottom: 10px;
+}
+
+.horario table{
+    margin-left: 10px;
+    padding-top: 60px;
+    width: 97%;
+}
+
+.horario{
+    padding-top: 50px;
+}
+
+
+
+h3{
+   position: relative;
+   left: 50%;
+   top:350px;
+}
+
+section{
+    text-align: center;
+    flex-wrap:wrap;
+}
